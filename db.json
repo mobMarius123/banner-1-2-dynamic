@@ -1,152 +1,60 @@
 {
-    "titles": [
+    "bannersData": [
         {
             "id": 1,
-            "title": "Covoare"
+            "title": "Covoare",
+            "subtitle": "la achizitii de minim 30 lei",
+            "date": "20 - 30 noiembrie",
+            "buttonTxt": "vezi colectia",
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/antiderapant-covor-1o_779x.jpg?v=1525738385"
         },
         {
             "id": 2,
-            "title": "Cadouri Craciun"
+            "title": "Cadouri Craciun",
+            "subtitle": "Atatea cadouri, atata fericire",
+            "date": "1 decmbrie - 10 ianuarie",
+            "buttonTxt": "vezi ideile",
+            "bannerImage": "https://mobexpert.ro/cdn/shop/files/1_4872a971-336b-4c1c-87b8-caaa95ccfa57_779x.jpg?v=1727286935"
         },
         {
             "id": 3,
-            "title": "20% REDUCERE"
+            "title": "20% REDUCERE",
+            "subtitle": "la toata colectia de mobilier copii",
+            "date": "25 noiembrie - 25 decembrie",
+            "buttonTxt": "comanda acum",
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/3_a4148837-b914-4940-98eb-4ab499e5f4fd_779x.jpg?v=1682079121"
         },
         {
             "id": 4,
-            "title": "Mobilier Copii"
+            "title": "Mobilier Copii",
+            "subtitle": "reducere la produse de 100 lei",
+            "date": "1 noiembrie - 1 decembrie",
+            "buttonTxt": "cumpara acum",
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/6_af0e8c30-0272-44c2-9423-3c16afe49c0c_779x.jpg?v=1683617056"
         },
         {
             "id": 5,
-            "title": "Apartament"
+            "title": "Apartament",
+            "subtitle": "mobilier apartament",
+            "date": "5 decembrie - 10 decembrie",
+            "buttonTxt": "vezi reducerile",
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/2_21e5c2c3-07cf-4542-b042-51d252b89e7d_779x.jpg?v=1611586219"
         },
         {
             "id": 6,
-            "title": "Mobilier Dormitor"
-        },
-        {
-            "id": 8,
-            "title": "Decoratiuni Casa"
-        }
-    ],
-    "subtitles": [
-        {
-            "id": 1,
-            "subtitle": "la achizitii de minim 30 lei"
-        },
-        {
-            "id": 2,
-            "subtitle": "Atatea cadouri, atata fericire"
-        },
-        {
-            "id": 3,
-            "subtitle": "la toata colectia de mobilier copii"
-        },
-        {
-            "id": 4,
-            "subtitle": "reducere la produse de 100 lei"
-        },
-        {
-            "id": 5,
-            "subtitle": "mobilier apartament"
-        },
-        {
-            "id": 6,
-            "subtitle": "reducere la comode"
+            "title": "Mobilier Dormitor",
+            "subtitle": "reducere la comode",
+            "date": "24 noiembrie - 10 decembrie",
+            "buttonTxt": "comanda acum",
+            "bannerImage": "https://mobexpert.ro/cdn/shop/files/063-living-Jennifer-fara-crop_779x.jpg?v=1724998208"
         },
         {
             "id": 7,
-            "subtitle": "ai gratuit o statuie de biblioteca"
-        }
-    ],
-    "dates": [
-        {
-            "id": 1,
-            "date": "20 - 30 noiembrie"
-        },
-        {
-            "id": 2,
-            "date": "1 decmbrie - 10 ianuarie"
-        },
-        {
-            "id": 3,
-            "date": "25 noiembrie - 25 decembrie"
-        },
-        {
-            "id": 4,
-            "date": "1 noiembrie - 1 decembrie"
-        },
-        {
-            "id": 5,
-            "date": "5 decembrie - 10 decembrie"
-        },
-        {
-            "id": 6,
-            "date": "24 noiembrie - 10 decembrie"
-        },
-        {
-            "id": 7,
-            "date": "10 - 15 decembrie"
-        }
-    ],
-    "buttonTxts": [
-        {
-            "id": 1,
-            "buttonTxt": "vezi colectia"
-        },
-        {
-            "id": 2,
-            "buttonTxt": "vezi ideile"
-        },
-        {
-            "id": 3,
-            "buttonTxt": "comanda acum"
-        },
-        {
-            "id": 4,
-            "buttonTxt": "cumpara acum"
-        },
-        {
-            "id": 5,
-            "buttonTxt": "vezi reducerile"
-        },
-        {
-            "id": 6,
-            "buttonTxt": "comanda acum"
-        },
-        {
-            "id": 7,
-            "buttonTxt": "prinde reducerea"
-        }
-    ],
-    "bannerImages": [
-        {
-            "id": 1,
-            "bannerImages": "https://mobexpert.ro/cdn/shop/products/antiderapant-covor-1o_779x.jpg?v=1525738385"
-        },
-        {
-            "id": 2,
-            "bannerImages": "https://mobexpert.ro/cdn/shop/files/1_4872a971-336b-4c1c-87b8-caaa95ccfa57_779x.jpg?v=1727286935"
-        },
-        {
-            "id": 3,
-            "bannerImages": "https://mobexpert.ro/cdn/shop/products/3_a4148837-b914-4940-98eb-4ab499e5f4fd_779x.jpg?v=1682079121"
-        },
-        {
-            "id": 4,
-            "bannerImages": "https://mobexpert.ro/cdn/shop/products/6_af0e8c30-0272-44c2-9423-3c16afe49c0c_779x.jpg?v=1683617056"
-        },
-        {
-            "id": 5,
-            "bannerImages": "https://mobexpert.ro/cdn/shop/products/2_21e5c2c3-07cf-4542-b042-51d252b89e7d_779x.jpg?v=1611586219"
-        },
-        {
-            "id": 6,
-            "bannerImages": "https://mobexpert.ro/cdn/shop/files/063-living-Jennifer-fara-crop_779x.jpg?v=1724998208"
-        },
-        {
-            "id": 7,
-            "bannerImages": "https://mobexpert.ro/cdn/shop/products/091-biblioteca-Metropolis-fara-crop_779x.jpg?v=1723015445"
+            "title": "Decoratiuni Casa",
+            "subtitle": "ai gratuit o statuie de biblioteca",
+            "date": "10 - 15 decembrie",
+            "buttonTxt": "prinde reducerea",
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/091-biblioteca-Metropolis-fara-crop_779x.jpg?v=1723015445"
         }
     ]
 }
