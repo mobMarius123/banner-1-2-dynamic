@@ -8,9 +8,9 @@
             "buttonTxt": "vezi colectia",
             "bannerImage": "https://mobexpert.ro/cdn/shop/products/antiderapant-covor-1o_779x.jpg?v=1525738385",
             "orderText": [
-                1,
                 2,
-                3
+                3,
+                1
             ]
         },
         {
@@ -21,9 +21,9 @@
             "buttonTxt": "vezi ideile",
             "bannerImage": "https://mobexpert.ro/cdn/shop/files/1_4872a971-336b-4c1c-87b8-caaa95ccfa57_779x.jpg?v=1727286935",
             "orderText": [
-                1,
                 2,
-                3
+                3,
+                1
             ]
         },
         {
@@ -34,9 +34,9 @@
             "buttonTxt": "comanda acum",
             "bannerImage": "https://mobexpert.ro/cdn/shop/products/3_a4148837-b914-4940-98eb-4ab499e5f4fd_779x.jpg?v=1682079121",
             "orderText": [
-                0,
                 1,
-                2
+                2,
+                0
             ]
         },
         {
@@ -47,9 +47,9 @@
             "buttonTxt": "cumpara acum",
             "bannerImage": "https://mobexpert.ro/cdn/shop/products/6_af0e8c30-0272-44c2-9423-3c16afe49c0c_779x.jpg?v=1683617056",
             "orderText": [
-                0,
                 1,
-                2
+                2,
+                0
             ]
         },
         {
@@ -60,9 +60,9 @@
             "buttonTxt": "vezi reducerile",
             "bannerImage": "https://mobexpert.ro/cdn/shop/products/2_21e5c2c3-07cf-4542-b042-51d252b89e7d_779x.jpg?v=1611586219",
             "orderText": [
-                1,
                 2,
-                0
+                0,
+                1
             ]
         },
         {
@@ -73,9 +73,9 @@
             "buttonTxt": "comanda acum",
             "bannerImage": "https://mobexpert.ro/cdn/shop/files/063-living-Jennifer-fara-crop_779x.jpg?v=1724998208",
             "orderText": [
-                1,
                 2,
-                3
+                3,
+                1
             ]
         },
         {
@@ -86,9 +86,9 @@
             "buttonTxt": "prinde reducerea",
             "bannerImage": "https://mobexpert.ro/cdn/shop/products/091-biblioteca-Metropolis-fara-crop_779x.jpg?v=1723015445",
             "orderText": [
-                0,
                 1,
-                2
+                2,
+                0
             ]
         }
     ]
