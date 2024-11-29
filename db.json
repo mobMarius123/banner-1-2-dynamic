@@ -6,7 +6,12 @@
             "subtitle": "la achizitii de minim 30 lei",
             "date": "20 - 30 noiembrie",
             "buttonTxt": "vezi colectia",
-            "bannerImage": "https://mobexpert.ro/cdn/shop/products/antiderapant-covor-1o_779x.jpg?v=1525738385"
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/antiderapant-covor-1o_779x.jpg?v=1525738385",
+            "orderText": [
+                "date",
+                "title",
+                "subtitle"
+            ]
         },
         {
             "id": 2,
@@ -14,31 +19,51 @@
             "subtitle": "Atatea cadouri, atata fericire",
             "date": "1 decmbrie - 10 ianuarie",
             "buttonTxt": "vezi ideile",
-            "bannerImage": "https://mobexpert.ro/cdn/shop/files/1_4872a971-336b-4c1c-87b8-caaa95ccfa57_779x.jpg?v=1727286935"
+            "bannerImage": "https://mobexpert.ro/cdn/shop/files/1_4872a971-336b-4c1c-87b8-caaa95ccfa57_779x.jpg?v=1727286935",
+            "orderText": [
+                "date",
+                "title",
+                "subtitle"
+            ]
         },
         {
             "id": 3,
             "title": "20% REDUCERE",
             "subtitle": "la toata colectia de mobilier copii",
-            "date": "25 noiembrie - 25 decembrie",
+            "date": "",
             "buttonTxt": "comanda acum",
-            "bannerImage": "https://mobexpert.ro/cdn/shop/products/3_a4148837-b914-4940-98eb-4ab499e5f4fd_779x.jpg?v=1682079121"
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/3_a4148837-b914-4940-98eb-4ab499e5f4fd_779x.jpg?v=1682079121",
+            "orderText": [
+                "",
+                "title",
+                "subtitle"
+            ]
         },
         {
             "id": 4,
             "title": "Mobilier Copii",
             "subtitle": "reducere la produse de 100 lei",
-            "date": "1 noiembrie - 1 decembrie",
+            "date": "",
             "buttonTxt": "cumpara acum",
-            "bannerImage": "https://mobexpert.ro/cdn/shop/products/6_af0e8c30-0272-44c2-9423-3c16afe49c0c_779x.jpg?v=1683617056"
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/6_af0e8c30-0272-44c2-9423-3c16afe49c0c_779x.jpg?v=1683617056",
+            "orderText": [
+                "",
+                "title",
+                "subtitle"
+            ]
         },
         {
             "id": 5,
             "title": "Apartament",
-            "subtitle": "mobilier apartament",
+            "subtitle": "",
             "date": "5 decembrie - 10 decembrie",
             "buttonTxt": "vezi reducerile",
-            "bannerImage": "https://mobexpert.ro/cdn/shop/products/2_21e5c2c3-07cf-4542-b042-51d252b89e7d_779x.jpg?v=1611586219"
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/2_21e5c2c3-07cf-4542-b042-51d252b89e7d_779x.jpg?v=1611586219",
+            "orderText": [
+                "date",
+                "title",
+                ""
+            ]
         },
         {
             "id": 6,
@@ -46,15 +71,25 @@
             "subtitle": "reducere la comode",
             "date": "24 noiembrie - 10 decembrie",
             "buttonTxt": "comanda acum",
-            "bannerImage": "https://mobexpert.ro/cdn/shop/files/063-living-Jennifer-fara-crop_779x.jpg?v=1724998208"
+            "bannerImage": "https://mobexpert.ro/cdn/shop/files/063-living-Jennifer-fara-crop_779x.jpg?v=1724998208",
+            "orderText": [
+                "date",
+                "title",
+                "subtitle"
+            ]
         },
         {
             "id": 7,
             "title": "Decoratiuni Casa",
             "subtitle": "ai gratuit o statuie de biblioteca",
-            "date": "10 - 15 decembrie",
+            "date": "",
             "buttonTxt": "prinde reducerea",
-            "bannerImage": "https://mobexpert.ro/cdn/shop/products/091-biblioteca-Metropolis-fara-crop_779x.jpg?v=1723015445"
+            "bannerImage": "https://mobexpert.ro/cdn/shop/products/091-biblioteca-Metropolis-fara-crop_779x.jpg?v=1723015445",
+            "orderText": [
+                "",
+                "title",
+                "subtitle"
+            ]
         }
     ]
 }
