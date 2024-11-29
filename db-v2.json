@@ -1,4 +1,7 @@
 {
+    "number_banners": {
+        "banner": 4
+    },
     "titles": [
         {
             "id": 1,
@@ -59,6 +62,36 @@
             "subtitle": "ai gratuit o statuie de biblioteca"
         }
     ],
+    "supratitles": [
+        {
+            "id": 1,
+            "supratitle": ""
+        },
+        {
+            "id": 2,
+            "supratitle": ""
+        },
+        {
+            "id": 3,
+            "supratitle": "in plus ai"
+        },
+        {
+            "id": 4,
+            "supratitle": "Colecția de"
+        },
+        {
+            "id": 5,
+            "supratitle": ""
+        },
+        {
+            "id": 6,
+            "supratitle": ""
+        },
+        {
+            "id": 7,
+            "supratitle": "la 2 produse cumparate din"
+        }
+    ],
     "dates": [
         {
             "id": 1,
@@ -89,6 +122,36 @@
             "date": "10 - 15 decembrie"
         }
     ],
+    "bandaInfos": [
+        {
+            "id": 1,
+            "bandaInfo": ""
+        },
+        {
+            "id": 2,
+            "bandaInfo": ""
+        },
+        {
+            "id": 3,
+            "bandaInfo": ""
+        },
+        {
+            "id": 4,
+            "bandaInfo": ""
+        },
+        {
+            "id": 5,
+            "bandaInfo": ""
+        },
+        {
+            "id": 6,
+            "bandaInfo": ""
+        },
+        {
+            "id": 7,
+            "bandaInfo": ""
+        }
+    ],
     "buttonTxts": [
         {
             "id": 1,
@@ -117,6 +180,36 @@
         {
             "id": 7,
             "buttonTxt": "prinde reducerea"
+        }
+    ],
+    "bandaDiscunts": [
+        {
+            "id": 1,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 2,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 3,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 4,
+            "bandaDiscunt": "20% reducere"
+        },
+        {
+            "id": 5,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 6,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 7,
+            "bandaDiscunt": ""
         }
     ],
     "bannerImages": [
