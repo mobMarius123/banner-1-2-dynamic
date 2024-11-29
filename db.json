@@ -28,10 +28,6 @@
             "title": "Mobilier Dormitor"
         },
         {
-            "id": 7,
-            "title": "Mobilier Living"
-        },
-        {
             "id": 8,
             "title": "Decoratiuni Casa"
         }
@@ -124,6 +120,126 @@
         {
             "id": 7,
             "date": "10 - 15 decembrie"
+        }
+    ],
+    "bandaInfos": [
+        {
+            "id": 1,
+            "bandaInfo": ""
+        },
+        {
+            "id": 2,
+            "bandaInfo": ""
+        },
+        {
+            "id": 3,
+            "bandaInfo": ""
+        },
+        {
+            "id": 4,
+            "bandaInfo": ""
+        },
+        {
+            "id": 5,
+            "bandaInfo": ""
+        },
+        {
+            "id": 6,
+            "bandaInfo": ""
+        },
+        {
+            "id": 7,
+            "bandaInfo": ""
+        }
+    ],
+    "buttonTxts": [
+        {
+            "id": 1,
+            "buttonTxt": "vezi colectia"
+        },
+        {
+            "id": 2,
+            "buttonTxt": "vezi ideile"
+        },
+        {
+            "id": 3,
+            "buttonTxt": "comanda acum"
+        },
+        {
+            "id": 4,
+            "buttonTxt": "cumpara acum"
+        },
+        {
+            "id": 5,
+            "buttonTxt": "vezi reducerile"
+        },
+        {
+            "id": 6,
+            "buttonTxt": "comanda acum"
+        },
+        {
+            "id": 7,
+            "buttonTxt": "prinde reducerea"
+        }
+    ],
+    "bandaDiscunts": [
+        {
+            "id": 1,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 2,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 3,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 4,
+            "bandaDiscunt": "20% reducere"
+        },
+        {
+            "id": 5,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 6,
+            "bandaDiscunt": ""
+        },
+        {
+            "id": 7,
+            "bandaDiscunt": ""
+        }
+    ],
+    "bannerImages": [
+        {
+            "id": 1,
+            "bannerImages": "https://mobexpert.ro/cdn/shop/products/antiderapant-covor-1o_779x.jpg?v=1525738385"
+        },
+        {
+            "id": 2,
+            "bannerImages": "https://mobexpert.ro/cdn/shop/files/1_4872a971-336b-4c1c-87b8-caaa95ccfa57_779x.jpg?v=1727286935"
+        },
+        {
+            "id": 3,
+            "bannerImages": "https://mobexpert.ro/cdn/shop/products/3_a4148837-b914-4940-98eb-4ab499e5f4fd_779x.jpg?v=1682079121"
+        },
+        {
+            "id": 4,
+            "bannerImages": "https://mobexpert.ro/cdn/shop/products/6_af0e8c30-0272-44c2-9423-3c16afe49c0c_779x.jpg?v=1683617056"
+        },
+        {
+            "id": 5,
+            "bannerImages": "https://mobexpert.ro/cdn/shop/products/2_21e5c2c3-07cf-4542-b042-51d252b89e7d_779x.jpg?v=1611586219"
+        },
+        {
+            "id": 6,
+            "bannerImages": "https://mobexpert.ro/cdn/shop/files/063-living-Jennifer-fara-crop_779x.jpg?v=1724998208"
+        },
+        {
+            "id": 7,
+            "bannerImages": "https://mobexpert.ro/cdn/shop/products/091-biblioteca-Metropolis-fara-crop_779x.jpg?v=1723015445"
         }
     ]
 }
