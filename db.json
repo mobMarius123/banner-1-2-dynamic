@@ -2,6 +2,7 @@
     "bannersData": [
         {
             "id": 1,
+            "classBanner": "cadouri-craciun",
             "title": "Covoare",
             "subtitle": "la achizitii de minim 30 lei",
             "date": "20 - 30 noiembrie",
@@ -15,6 +16,7 @@
         },
         {
             "id": 2,
+            "classBanner": "",
             "title": "Cadouri Craciun",
             "subtitle": "Atatea cadouri, atata fericire",
             "date": "1 decmbrie - 10 ianuarie",
@@ -28,6 +30,7 @@
         },
         {
             "id": 3,
+            "classBanner": "",
             "title": "20% REDUCERE",
             "subtitle": "la toata colectia de mobilier copii",
             "date": "",
@@ -41,6 +44,7 @@
         },
         {
             "id": 4,
+            "classBanner": "",
             "title": "Mobilier Copii",
             "subtitle": "reducere la produse de 100 lei",
             "date": "",
@@ -54,6 +58,7 @@
         },
         {
             "id": 5,
+            "classBanner": "",
             "title": "Apartament",
             "subtitle": "",
             "date": "5 decembrie - 10 decembrie",
@@ -67,6 +72,7 @@
         },
         {
             "id": 6,
+            "classBanner": "",
             "title": "Mobilier Dormitor",
             "subtitle": "reducere la comode",
             "date": "24 noiembrie - 10 decembrie",
@@ -80,6 +86,7 @@
         },
         {
             "id": 7,
+            "classBanner": "",
             "title": "Decoratiuni Casa",
             "subtitle": "ai gratuit o statuie de biblioteca",
             "date": "",
